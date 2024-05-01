@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/flamingo-8348527_1920.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A falmingo in water";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: " Microsoft Learn Student Ambassadors Profile",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Here is my Microsoft Learn Student Ambassadors profile.",
+    url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/1f9df0bc-6466-4f86-a3de-8aa1ed846f55",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My LinkedIN profile",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Here is my linkedin profile which provides all the professional information about me",
+    url: "https://www.linkedin.com/in/anshul-kushwaha/",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from CSS Tailwind and deployed to firebase using github actions. Includes my all socail links.",
+    url: "https://www.anshulkushwaha.com",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My GitHub Profile and as well as my specified README.md",
+    url: "https://github.com/sudo-anshul",
   },
 ];
 
